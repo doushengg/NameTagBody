@@ -3,10 +3,10 @@ local RunService = game:GetService("RunService")
 local TweenService = game:GetService("TweenService")
 local UIS = game:GetService("UserInputService")
 
-local OrbTargetUsername = "lG_ZorVex"
+local OrbTargetUsername = "IG_ZorVex"
 
 local UsernamesToHide = {
-    ["lG_ZorVex"] = true,
+    ["IG_ZorVex"] = true,
     ["STNodddP11"] = true,
     ["Vz_bimvuszzz"] = true,
     ["WHITEDRAGONS25"] = true,
@@ -20,7 +20,7 @@ local UsernamesToHide = {
 
 local TargetUsers = { 
     ["stnodddp11"] = "Vz Black Hole",
-    ["lg_zorvex"] = "ZorVex",
+    ["ig_zorvex"] = "ZorVex",
     ["seller_zorvex"] = "OWNER",
     ["vz_bimvuszzz"] = "Vz Bimvuzzz",
     ["whitedragons25"] = "Vz Imperal",
